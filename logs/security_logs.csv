@@ -1,0 +1,8 @@
+Timestamp,IP Address,Attack Type,Action
+2026-05-23 18:12:10.492500,192.168.1.10,SQL Injection,Blocked
+2026-05-23 18:23:34.942028,127.0.0.1,XSS,Blocked
+2026-05-23 18:30:52.731317,127.0.0.1,XSS,Blocked
+2026-05-23 18:30:55.642545,127.0.0.1,XSS,Blocked
+2026-05-23 18:30:58.341932,127.0.0.1,XSS,Blocked
+2026-05-23 18:31:28.898237,127.0.0.1,Directory Traversal,Blocked
+2026-05-23 18:31:32.940438,127.0.0.1,Directory Traversal,Blocked
